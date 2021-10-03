@@ -1,0 +1,8 @@
+step 1 : install nodejs
+step 2 : install react by using following command or tools
+        cmd : npx install create-react-app
+
+step3 : create react app
+        cmd : npx create-react-app appName
+
+step 4 : clean project directory 
